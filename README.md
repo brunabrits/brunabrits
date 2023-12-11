@@ -11,7 +11,7 @@
    <br>
 <p>🎓 Estudo Desenvolvimento de Software Multiplataforma  na <a href="https://fatecdiadema.com.br/">Fatec Diadema </p>
 <p> 👾 Passo meu tempo solucionando exercicios no <a href="https://www.beecrowd.com.br/judge/pt/profile/884431"> Beecrowd </p>
-<p> 🍝 Atualmente estou produzindo no repositório <a href="https://fatecdiadema.com.br/"> Mesa Compartilhada</p>
+<p> 🍝 Atualmente estou produzindo no repositório <a href="https://github.com/brunabrits/MesaCompartilhada_PI"> Mesa Compartilhada</p>
    <br>
      </samp>
   </div>    
@@ -64,16 +64,9 @@
       <a href="https://www.linkedin.com/in/bruna-brito-/"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
           height="30"/></a>
-      <a href="mailto:bruna.santiago@terra.com.br" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/brunineea__/" target="blank"><img align="center"
+          <a href="https://instagram.com/brunineea__/" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
         height="30"/></a>
-      <br>
-    <br>
     </p>
   </samp>
 </div>
