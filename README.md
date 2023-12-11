@@ -18,7 +18,7 @@
 </details>
 
 
-<details open> 
+<details > 
   <summary> 📚 skills </summary>
   <div>
   <samp>
