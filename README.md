@@ -4,7 +4,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/cf/bf/47/cfbf47ce7bb75b48032153ed1ed5d91d.gif">
 </a>
 
-<details > 
+<details open> 
   <summary> 👩‍💻 about me </summary>
   <div>
   <samp>
