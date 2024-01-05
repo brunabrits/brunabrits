@@ -54,6 +54,25 @@
   </div>    
 </details>
 
+<details> 
+  <summary> 🗂 repositories </summary>
+  <div>
+  <samp>
+   <br>
+    <p>📌<b>Linguagens:</b> Estão padronizados os conhecimentos aplicados sobre determinadas linguagens da seguinte forma: "NomeDaLinguagem"+Note, juntos sem espaços ou carateres especiais. Neles estão registrados minhas aplicações e anotações </p>
+    <p>📌<b>Academicos e escolares:</b> Estão padronizados com o nome do projeto + o underscore "_"  e o tipo de avaliação a qual foi aplicada, podendo ser invertida a sequência, os tipos de avaliações são: </p>
+    <p>  - TCC: Trabalho de conclusão de Curso;</p>
+    <p>  - PI: Projeto Integrador;</p>
+    <p>  - AT: Atividade.</p>
+    <p>📌<b>Cursos, Oficinas, Imersões e outros:</b> Estão padronizados com o nome do repositório em PascalCase e o hifen "-" ao final do nome definido. </p>
+    <p>📌 <b>Projetos Pessoais:</b> Vão ser padronizados com ".byb" ao final do nome do repositorio.</p>
+    <p>📍 <b>Commits: </b> Na maioria dos respositórios foram aplicados </p>
+     - <a href="https://git-cct.vercel.app/"> Git CCT</a> 
+    <br>
+     - <a href="https://gitmoji.dev/"> GitMoji</a>
+  </samp>
+  </div>    
+</details>
 
  <details>
   <summary>☎️ contact me</summary>
